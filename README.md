@@ -11,7 +11,7 @@ a code in the correct format, an azure function authenticates the code and if lo
 successful you will be redirected to the home page or you will be alerted of a failed login.
 
 The app is deployed with Vercel in address https://my-b2b-lookbook-awqp4bt6u-emmatus-projects.vercel.app/
-and it seems that the alert on the page shows undefined which would be something I'd need to look into
+and it seems that the failed login alert on the page shows undefined which would be something I'd need to look into
 for version 2.0.
 
 # Restrictions and Improvements
