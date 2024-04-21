@@ -1,0 +1,21 @@
+.look-book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 2em;
+}
+
+.look-item-main img {
+    width: 100%;
+    height: auto;
+}
+
+.look-item-small img {
+    width: 50%;
+    height: auto;
+    margin-right: 1em;
+}
+
+.look-item-large img {
+    width: 200%
+}
