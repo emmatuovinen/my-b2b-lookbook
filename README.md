@@ -20,9 +20,6 @@ Unfortunately due to time constraints I was not able to add all the required fea
 such as Terraform. Additionally I would have liked to add the images and text/excel files into
 Azure as well and fetch them from there but that will have to be done in the next version. The
 actual lookbook page is unfinished in terms of image arrangement and metadata for the products.
-To challenge myself I started with the features that I had less experience in to be out of my comfort zone.
 
-I ran into various technical challenges that took more of my time than I would have liked but I am pleased
-I was able to resolve the problems I ran into. My initial version was created with Next.js but possibly due
-to a faulty directory structure I was unable to authenticate the login. Additionally, I ran into cors challenges
-and github authentication issues so it has definitely been a very rewarding coding challenge.
+When it comes to code structuring, I kept it very simple due to the small size of the application
+but I would rearrange the elements and components in relevant folders.
